@@ -1,1 +1,2 @@
-# Dice-game
+# Dice-Game
+A javaScript project.
